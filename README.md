@@ -1,5 +1,5 @@
 # sanzhong-
-sanzhong论坛
+ttest
 <p align="center">
   <a href="https://xingye.me/game/eatkano](https://github.com/yvxuan1921/sanzhong-/index.html)">
 </p>
@@ -7,7 +7,7 @@ sanzhong论坛
 
 # EatKano
 
-  一个暂时没用的论坛
+  一个暂时没用的东西
 
 </div>
 
