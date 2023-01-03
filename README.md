@@ -1,7 +1,7 @@
-# sanzhong-
+# 博客-
 ttest
 <p align="center">
-  <a href="https://xingye.me/game/eatkano](https://github.com/yvxuan1921/sanzhong-/index.html)">
+  <a href="https://yvxuan1921.github.io/](https://yvxuan1921.github.io/)">
 </p>
 <div align="center">
 
